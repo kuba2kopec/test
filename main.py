@@ -18,3 +18,4 @@ while True:
     print(mul())
 
 #kom
+#kom2
